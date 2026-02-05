@@ -1,4 +1,5 @@
 📊 Projeto Dashboard Power BI – Análise de Dados
+
 📌 Visão Geral
 
 Este projeto tem como objetivo a criação de um dashboard interativo no Power BI, permitindo a análise visual de dados para apoio à tomada de decisão.
